@@ -1,2 +1,2 @@
 # hello-world
-# This respository was created as a learning exercise.
+# This repository was created as a learning exercise.
